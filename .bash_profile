@@ -1,0 +1,1 @@
+/Users/maks/.bash_profile
