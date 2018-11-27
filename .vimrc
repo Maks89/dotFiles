@@ -19,4 +19,12 @@ syntax on
 colorscheme desert
 
 "Custom Config Options
+
 set number
+
+inoremap {      {}<Left>
+inoremap {<CR>  {<CR>}<Esc>O
+inoremap {{     {
+inoremap {}     {}
+
+
